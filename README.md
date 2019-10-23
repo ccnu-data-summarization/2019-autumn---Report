@@ -16,8 +16,8 @@
   <tr id="bord">
     <td rowspan="2">10.8</td>
     <td>邓露</td>
-    <td></td>
-    <td></td>
+    <td>这里请写汇报主要内容</td>
+    <td>这里请给出资料（例如PPT,PDF等）链接</td>
   </tr>
 
 
