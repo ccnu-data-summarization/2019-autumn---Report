@@ -26,7 +26,7 @@
   </tr>
 
   <tr id="bord">
-    <td rowspan="2">10.17</td>
+    <td rowspan="1">10.17</td>
     <td>暂停</td>
     <td></td>
     <td></td>
@@ -39,7 +39,6 @@
     <td></td>
     <td></td>
   </tr>
-
  <tr id="bord">
     <td>高含宁</td>
     <td></td>
