@@ -69,7 +69,41 @@
     <td></td>
     <td></td>
   </tr>
+  
+  <tr id="bord">
+    <td rowspan="2">11.14</td>
+    <td>邓露</td>
+    <td></td>
+    <td></td>
+  </tr>
+ <tr id="bord">
+    <td>王霞</td>
+    <td></td>
+    <td></td>
+  </tr>
  
+   <tr id="bord">
+    <td rowspan="2">11.21</td>
+    <td>姜晓苹</td>
+    <td></td>
+    <td></td>
+  </tr>
+ <tr id="bord">
+    <td>高含宁</td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr id="bord">
+    <td rowspan="2">11.28</td>
+    <td>曾虹</td>
+    <td></td>
+    <td></td>
+  </tr>
+ <tr id="bord">
+    <td>徐冲</td>
+    <td></td>
+    <td></td>
+  </tr>
 
 
 </tbody></table>
