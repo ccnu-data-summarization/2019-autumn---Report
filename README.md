@@ -104,7 +104,17 @@
     <td></td>
     <td></td>
   </tr>
-
+    <tr id="bord">
+    <td rowspan="2">12.5</td>
+    <td>邓露</td>
+    <td></td>
+    <td></td>
+  </tr>
+ <tr id="bord">
+    <td>程五焰</td>
+    <td></td>
+    <td></td>
+  </tr>
 
 </tbody></table>
 </div>
