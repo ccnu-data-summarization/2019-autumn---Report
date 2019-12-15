@@ -117,11 +117,13 @@
   </tr>
 
 <tr id="bord">
-    <td rowspan="2">12.12</td>
+    <td rowspan="1">12.12</td>
     <td>暂停</td>
     <td></td>
     <td></td>
  </tr>
+ 
+
 
  <tr id="bord">
     <td rowspan="2">12.19</td>
