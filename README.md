@@ -116,8 +116,15 @@
     <td></td>
   </tr>
 
- <tr id="bord">
+<tr id="bord">
     <td rowspan="2">12.12</td>
+    <td>暂停</td>
+    <td></td>
+    <td></td>
+ </tr>
+
+ <tr id="bord">
+    <td rowspan="2">12.19</td>
     <td>王霞</td>
     <td></td>
     <td></td>
@@ -129,7 +136,7 @@
  </tr>
 
  <tr id="bord">
-    <td rowspan="2">12.19</td>
+    <td rowspan="2">12.26</td>
     <td>姜晓苹</td>
     <td></td>
     <td></td>
@@ -141,7 +148,7 @@
  </tr>
  
   <tr id="bord">
-    <td rowspan="2">12.26</td>
+    <td rowspan="2">1.2</td>
     <td>徐冲</td>
     <td></td>
     <td></td>
@@ -153,7 +160,7 @@
  </tr>
  
  <tr id="bord">
-    <td rowspan="2">1.2</td>
+    <td rowspan="2">1.9</td>
     <td>程五焰</td>
     <td></td>
     <td></td>
@@ -165,7 +172,7 @@
  </tr>
  
   <tr id="bord">
-    <td rowspan="2">1.9</td>
+    <td rowspan="2">1.16</td>
     <td>姜晓苹</td>
     <td></td>
     <td></td>
@@ -177,7 +184,7 @@
  </tr>
  
   <tr id="bord">
-    <td rowspan="2">1.16</td>
+    <td rowspan="2">1.23</td>
     <td>徐冲</td>
     <td></td>
     <td></td>
